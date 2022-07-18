@@ -13,7 +13,7 @@ Description: |
   Examples include 'en-US', 'de', 'sv-SE', and 'zh-TW'
   See the following URL for possible LOCALE values:
       http://ftp.mozilla.org/pub/firefox/releases/latest/README.txt
-Identifier: com.github.autopkg.download.FirefoxSignedPkg
+Identifier: com.github.apfelwerk.firefoxSigned
 MinimumVersion: '2.0'
 
 Input:
