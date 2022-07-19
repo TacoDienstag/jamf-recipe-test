@@ -1,6 +1,6 @@
 Description: Downloads the latest version of VS Code and then uploads to the JSS
 Identifier: com.github.apfelwerk.jss.visualstudiocode
-ParentRecipe: com.github.apfelwerk.pkg.visualstudiocode
+#ParentRecipe: com.github.apfelwerk.pkg.visualstudiocode
 MinimumVersion: 0.6.1
 
 Input:
